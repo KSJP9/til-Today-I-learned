@@ -1,0 +1,54 @@
+Android 開発で読むべきもの
+移行戦略
+https://developer.android.com/jetpack/compose/interop/migration-strategy?hl=ja
+クイックスタート
+https://developer.android.com/jetpack/compose/setup?hl=ja
+サンプルチェック
+https://github.com/android/compose-samples
+
+基本コース
+https://developer.android.com/courses/android-basics-compose/course?hl=ja
+
+アーキテクチャガイド
+https://developer.android.com/jetpack/guide?hl=ja
+
+コードラボ
+https://developer.android.com/get-started/codelabs
+
+
+
+https://developer.android.com/courses/pathways/compose?hl=ja#codelab-https://developer.android.com/codelabs/jetpack-compose-migration
+
+
+アニメーション
+https://developer.android.com/jetpack/compose/animation?hl=ja
+Proto DataStore を使用する
+https://developer.android.com/codelabs/android-proto-datastore?hl=ja#0
+Preferences DataStore を使用する
+https://developer.android.com/codelabs/android-preferences-datastore?hl=ja#0
+Kotlin Flow
+https://kotlinlang.org/docs/flow.html#size-limiting-operators
+JetBrains Blog
+https://blog.jetbrains.com/search/?p=Kotlin
+
+Roomとフロー
+https://developer.android.com/codelabs/basic-android-kotlin-training-intro-room-flow?hl=ja#0
+
+SQL
+https://developer.android.com/codelabs/basic-android-kotlin-training-sql-basics?hl=ja#0
+
+KotlinFlowとLiveData
+https://developer.android.com/codelabs/advanced-kotlin-coroutines?hl=ja#1
+
+animation PDF
+https://storage.googleapis.com/android-stories/compose/Compose_Animation_Cheat_Sheet.pdf
+
+animation codelab
+https://developer.android.com/codelabs/jetpack-compose-animation?hl=ja#0
+
+
+Flow safety
+https://medium.com/androiddevelopers/consuming-flows-safely-in-jetpack-compose-cde014d0d5a3
+
+状態ホイスティング長い
+https://developer.android.com/jetpack/compose/state-hoisting?hl=ja#no-state-hoisting
